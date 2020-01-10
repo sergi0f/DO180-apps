@@ -8,4 +8,5 @@
   "dependencies": {
     "express": "~4.14.X"
   }
+"scripts": {  "start": "node app.js"  },
 }
